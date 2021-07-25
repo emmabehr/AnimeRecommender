@@ -18,3 +18,6 @@ Please find my basic data analysis project [here](https://github.com/emmabehr/Py
 For my extension project, I am building an anime recommendation engine using machine learning. 
 Dataset taken from: [MyAnimeList Database 2020] (https://www.kaggle.com/hernan4444/anime-recommendation-database-2020) 
 
+The user interface is written using Tkinter and allows the user to view and filter a list of anime, read from the CSV file, anime.csv.  The user can choose a show and get recommendations for other anime they might like.  
+
+The recommendations come from training a neural network using anime ratings from the CSV file animelist.csv, the model is trained by taking rating information from users and the shows that they have rated. This allows the model to compare similar animes based on user ratings and other shows that they have given similar ratings to.
