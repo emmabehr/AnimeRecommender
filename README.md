@@ -1,4 +1,4 @@
-# Anime Recommender
+# Anime Recommender Engine
 Anime recommendation engine using machine learning.  Final project for my CFG class. 
 
 
