@@ -23,7 +23,7 @@ Please find my basic data analysis project [here](https://github.com/emmabehr/Py
 
 ## Extended Tasks
 
-For my extension project, I am building an anime recommendation engine using machine learning.
+For my extension project, I built anime recommendation engine using machine learning.
 
 Dataset taken from: [MyAnimeList Database 2020] (https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
 
