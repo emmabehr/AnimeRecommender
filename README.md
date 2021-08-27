@@ -1,4 +1,4 @@
-t anime recommendation engine using machine learning.
+anime recommendation engine using machine learning.
 
 Dataset taken from: [MyAnimeList Database 2020] (https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
 
